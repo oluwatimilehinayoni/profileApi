@@ -1,1 +1,1 @@
-This is an assignment
+This is a Laravel assignment
